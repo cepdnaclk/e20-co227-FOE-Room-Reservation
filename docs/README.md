@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e20-co227-FOE-Room-Reservation
+title: FOE Room Reservation
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# FOE Room Reservation
 
 ---
 
@@ -20,9 +20,10 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/20/009, Ahemad I.I., [e20009@eng.pdn.ac.lk](e20009@eng.pdn.ac.lk)
+-  E/20199,  Ketharagan P, [e20199@eng.pdn.ac.lk](e20199@eng.pdn.ac.lk)
+-  E/20/338, Rishanthan S., [e20338@eng.pdn.ac.lk](e20338@eng.pdn.ac.lk)
+-  E/20/339, A.M.Rismy, [e20339@eng.pdn.ac.lk](e20339@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
