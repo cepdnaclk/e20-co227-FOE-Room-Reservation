@@ -13,7 +13,7 @@ title:
 
 ---
 
-![Landing page](./images/Screenshot%202024-12-01%20at%202.32.58%E2%80%AFPM.png))
+![Landing page](./images/Screenshot%202024-12-01%20at%202.32.58%E2%80%AFPM.png)
 
  
 ## Table of Contents
