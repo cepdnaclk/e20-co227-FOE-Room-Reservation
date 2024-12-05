@@ -39,7 +39,9 @@ This platform has been developed simplify the process of booking lecture rooms w
 
 ## User roles and functionalities
 
-![User functionalities](./images/IMG_3493.jpg))
+![User functionalities](./images/IMG_3493.jpg)
+
+
 
 
 ## Technology Stack
@@ -49,9 +51,14 @@ This platform has been developed simplify the process of booking lecture rooms w
 - #### Testing - Postman, Mockito
 - #### Storage - MySQL
 
+  
+
 ## Architecture
 
 ![Control Flow](./images/Architecture.png)
+
+
+
 
 ## Team
 -  E/20/009, Ahemad I.I., [email](e20009@eng.pdn.ac.lk)
