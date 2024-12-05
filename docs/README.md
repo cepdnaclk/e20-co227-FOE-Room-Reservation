@@ -33,9 +33,9 @@ This platform has been developed simplify the process of booking lecture rooms w
 
 
 ## Problem Domain
-- 1. The current booking system allows users to book only seminar rooms. To book other rooms, users need to call the AR office.
-- 2. Since bookings are managed through Office Outlook, it is difficult to handle them efficiently.
-- 3. The current booking system is not user-friendly.
+1. The current booking system allows users to book only seminar rooms. To book other rooms, users need to call the AR office.
+2. Since bookings are managed through Office Outlook, it is difficult to handle them efficiently.
+3. The current booking system is not user-friendly.
 
 ## User roles and functionalities
 
@@ -45,11 +45,11 @@ This platform has been developed simplify the process of booking lecture rooms w
 
 
 ## Technology Stack
-- #### Front end  - React
-- #### Back end - Java (Spring Framework)
-- #### Security - Spring Security, JWT
-- #### Testing - Postman, Mockito
-- #### Storage - MySQL
+- Front end  - React
+- Back end - Java (Spring Framework)
+- Security - Spring Security, JWT
+- Testing - Postman, Mockito
+- Storage - MySQL
 
   
 
